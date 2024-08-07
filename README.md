@@ -1,3 +1,3 @@
 # greenote
 
-[Download apk zip](/app-release.apk)
+[Download apk zip](/app-release.apk.zip)
